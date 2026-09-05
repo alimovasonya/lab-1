@@ -1,0 +1,10 @@
+//Алимова Софья Сергеевна ПИ1.1 Алгоритмизация и програмирование
+#include <stdio.h>
+
+
+int main(void) 
+{
+    printf("Hello, world!\n");
+    return 0;
+}
+
